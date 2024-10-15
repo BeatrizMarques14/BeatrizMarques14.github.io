@@ -116,7 +116,7 @@ Uma alternativa de baixo custo e relativamente fácil de incorporar é o sensor 
 
 Após analisar as pontas dos dedos da mão robótica, conclui-se que os sensores FSR redondos são a melhor opção, já que estes se adaptam melhor à geometria irregular das pontas dos dedos. Os sensores quadrados, por sua vez, apresentam dimensões maiores, o que pode dificultar o encaixe e o desempenho adequado.
 
- Entre os modelos redondos disponíveis, destacam-se o FSR 400, com diâmetro de 7.62 mm, e o FSR 402, com 18.28 mm. Ambos são muito semelhantes, sendo a única diferença o tamanho. Em relação aos sensores quadrados, apenas existe um modelo, o FSR 406, que possui dimensões 43.69x43.69 mm. Todos estes sensores possuem uma sensibildade de força entre 0.1 N e 100 N, o que corresponde a uma massa entre 10 g e 10 Kg.
+ Entre os modelos redondos disponíveis, destacam-se o FSR 400, com diâmetro de 7.62 mm, e o FSR 402, com 18.28 mm. Ambos são muito semelhantes, sendo a única diferença o tamanho. Em relação aos sensores quadrados, apenas existe um modelo, o FSR 406, que possui dimensões 43.69x43.69 mm. Todos estes sensores possuem uma sensibildade de força entre 0.2 N e 20 N, o que corresponde a uma massa entre 20 g e 2 Kg.
 
 
 
@@ -127,7 +127,7 @@ Nesta fase inicial, considera-se que a melhor abordagem para a incorporação do
 | Componente | Quantidade |
 |:-------------|:-------------:|
 | Sensor FSR 400 | 4 |
-| Sensor FSR 406 | 2 |
+| Sensor FSR 406 | 1 |
 
 
 ## Outros acessórios
@@ -142,8 +142,8 @@ Nesta secção apresenta-se uma lista de alguns acessórios não listados anteri
 | [M2 10mm Screws](https://www.amazon.com/dp/B07W5J19Y5?ref_=cm_sw_r_cp_ud_dp_YSED9J2Q9JHAZJE2TE6S&peakEvent=4&dealEvent=1) | 24 |
 | [M2 6mm Screws](https://www.amazon.com/dp/B07W5J19Y5?ref_=cm_sw_r_cp_ud_dp_YSED9J2Q9JHAZJE2TE6S&peakEvent=4&dealEvent=1) | 4 |
 | [M3 6mm Screws](https://www.amazon.com/dp/B07S1R8NL7?_encoding=UTF8&psc=1&ref_=cm_sw_r_cp_ud_dp_C66CFKPG8A5B9GW1KH9T) | 5 |
-| [Polymaker PLA Pro](https://www.amazon.com/dp/B099KS2PDW?ref_=cm_sw_r_cp_ud_dp_9TYAHY4XBF45WRGQJGQ6) | ~200g |
-| [Ninjaflex Edge](https://ninjatek.com/shop/edge/) | 100g |
+| [Polymaker PLA Pro](https://mauser.pt/catalog/product_info.php?products_id=096-8892) | ~200g |
+| [Filamento TPU](https://mauser.pt/catalog/product_info.php?products_id=096-8175) | 100g |
 | [Power Supply ( 5V 30A)](https://www.electrofun.pt/transformadores-e-conversores/fonte-de-alimentacao-industrial-5v-150w-30a-prok) | 1|
 | Power Cable AC | 1 |
 | [14 AWG 5V Cable](https://www.amazon.com/dp/B088RDY284?ref_=cm_sw_r_cp_ud_dp_4ESS07CK5QSXK185XQEP) | 1 |
