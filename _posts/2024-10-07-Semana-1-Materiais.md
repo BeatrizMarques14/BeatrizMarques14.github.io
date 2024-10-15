@@ -144,7 +144,7 @@ Nesta secção apresenta-se uma lista de alguns acessórios não listados anteri
 | [M3 6mm Screws](https://www.amazon.com/dp/B07S1R8NL7?_encoding=UTF8&psc=1&ref_=cm_sw_r_cp_ud_dp_C66CFKPG8A5B9GW1KH9T) | 5 |
 | [Polymaker PLA Pro](https://www.amazon.com/dp/B099KS2PDW?ref_=cm_sw_r_cp_ud_dp_9TYAHY4XBF45WRGQJGQ6) | ~200g |
 | [Ninjaflex Edge](https://ninjatek.com/shop/edge/) | 100g |
-| [Power Supply ( 5V 30A)](https://www.amazon.com/dp/B07Q2VPPL1?ref_=cm_sw_r_cp_ud_dp_93TFDFPDC0KN10AQ2GPD_1) | 1|
+| [Power Supply ( 5V 30A)](https://www.electrofun.pt/transformadores-e-conversores/fonte-de-alimentacao-industrial-5v-150w-30a-prok) | 1|
 | Power Cable AC | 1 |
 | [14 AWG 5V Cable](https://www.amazon.com/dp/B088RDY284?ref_=cm_sw_r_cp_ud_dp_4ESS07CK5QSXK185XQEP) | 1 |
 
