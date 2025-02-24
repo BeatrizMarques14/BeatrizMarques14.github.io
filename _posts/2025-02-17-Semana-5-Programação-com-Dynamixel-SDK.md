@@ -1,8 +1,8 @@
 ---
 title: "Semana 5 - Programação com Dynamixel SDK"
 date: "2025-02-17"
-categories: [Materiais, Análise de Dados]
-tags: [Materiais, Análise de Dados]
+categories: [Programação]
+tags: [Programação]
 math: true
 
 ---
