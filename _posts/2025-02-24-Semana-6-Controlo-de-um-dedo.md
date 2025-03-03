@@ -1,7 +1,7 @@
 ---
 title: "Semana 6 - Controlo de um dedo"
 date: "2025-02-24"
-categories: Programação]
+categories: Programação
 tags: [Programação, ROS]
 math: true
 
