@@ -15,7 +15,7 @@ No *Current-based Position Control Mode*, não é possível definir diretamente 
 
 <div style="text-align: center;">
   <a href="https://www.youtube.com/shorts/_3l9AzUPu9A">
-    <img src="https://img.youtube.com/vi/_3l9AzUPu9A.jpg" alt="Texto alternativo">
+    <img src="https://img.youtube.com/vi/_3l9AzUPu9A/0.jpg" alt="Texto alternativo">
   </a>
 </div>
 
@@ -101,7 +101,7 @@ Teoricamente, no *Current-based Position Control Mode*, quando os motores tentam
 
 <div style="text-align: center;">
   <a href="https://www.youtube.com/shorts/t0O2q5OHMzo">
-    <img src="https://img.youtube.com/vi/t0O2q5OHMzo.jpg" alt="Texto alternativo">
+    <img src="https://img.youtube.com/vi/t0O2q5OHMzo/0.jpg" alt="Texto alternativo">
   </a>
 </div>
 
@@ -224,7 +224,7 @@ Após analisar o comportamento do dedo quando interrompido por um obstáculo, é
 
 <div style="text-align: center;">
   <a href="https://www.youtube.com/shorts/Qy4lXXRUP4Q">
-    <img src="https://img.youtube.com/vi/Qy4lXXRUP4Q.jpg" alt="Texto alternativo">
+    <img src="https://img.youtube.com/vi/Qy4lXXRUP4Q/0.jpg" alt="Texto alternativo">
   </a>
 </div>
 
