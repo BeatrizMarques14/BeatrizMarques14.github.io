@@ -40,7 +40,7 @@ Posições do *middle finger*
       </td>
       <td>
         <figure>
-          <img src="/assets/images/semana10/finger_pos2_finger_1.png" alt="10 KOhm" width="200">
+          <img src="/assets/images/semana11/finger_pos2_finger_1.png" alt="10 KOhm" width="200">
           <figcaption>Posições dos motores do *middle finger* com o dobro da velocidade do polegar </figcaption>
         </figure>
       </td>
@@ -61,7 +61,7 @@ Posições do polegar
       </td>
       <td>
         <figure>
-          <img src="/assets/images/semana10/finger_pos2_finger_3.png" alt="10 KOhm" width="200">
+          <img src="/assets/images/semana11/finger_pos2_finger_3.png" alt="10 KOhm" width="200">
           <figcaption>Posições dos motores do polegar com metade da velocidade do *middle finger </figcaption>
         </figure>
       </td>
@@ -82,7 +82,7 @@ Velocidades do *middle finger*
       </td>
       <td>
         <figure>
-          <img src="/assets/images/semana10/finger_vel2_finger_1.png" alt="10 KOhm" width="200">
+          <img src="/assets/images/semana11/finger_vel2_finger_1.png" alt="10 KOhm" width="200">
           <figcaption>Velocidades dos motores do *middle finger* com o dobro da velocidade do polegar </figcaption>
         </figure>
       </td>
@@ -103,7 +103,7 @@ Velocidades do polegar
       </td>
       <td>
         <figure>
-          <img src="/assets/images/semana10/finger_pos2_finger_3.png" alt="10 KOhm" width="200">
+          <img src="/assets/images/semana11/finger_pos2_finger_3.png" alt="10 KOhm" width="200">
           <figcaption>Velocidades dos motores do polegar com metade da velocidade do *middle finger </figcaption>
         </figure>
       </td>
@@ -124,7 +124,7 @@ Correntes do *middle finger*
       </td>
       <td>
         <figure>
-          <img src="/assets/images/semana10/finger_curr2_finger_1.png" alt="10 KOhm" width="200">
+          <img src="/assets/images/semana11/finger_curr2_finger_1.png" alt="10 KOhm" width="200">
           <figcaption>Correntes consumidas pelos motores do *middle finger* com o dobro da velocidade do polegar </figcaption>
         </figure>
       </td>
@@ -145,7 +145,7 @@ Correntes do polegar
       </td>
       <td>
         <figure>
-          <img src="/assets/images/semana10/finger_curr2_finger_3.png" alt="10 KOhm" width="200">
+          <img src="/assets/images/semana11/finger_curr2_finger_3.png" alt="10 KOhm" width="200">
           <figcaption>Correntes consumidas pelos motores do polegar com metade da velocidade do *middle finger </figcaption>
         </figure>
       </td>
@@ -200,7 +200,7 @@ Posições
       </td>
       <td>
         <figure>
-          <img src="/assets/images/semana10/finger_pos4_finger_1.png" alt="10 KOhm" width="200">
+          <img src="/assets/images/semana11/finger_pos4_finger_1.png" alt="10 KOhm" width="200">
           <figcaption>Posições com velocidade do primeiro motor superior </figcaption>
         </figure>
       </td>
@@ -221,7 +221,7 @@ Velocidades
       </td>
       <td>
         <figure>
-          <img src="/assets/images/semana10/finger_vel4_finger_1.png" alt="10 KOhm" width="200">
+          <img src="/assets/images/semana11/finger_vel4_finger_1.png" alt="10 KOhm" width="200">
           <figcaption>Velocidades com velocidade do primeiro motor superior </figcaption>
         </figure>
       </td>
@@ -242,7 +242,7 @@ Correntes
       </td>
       <td>
         <figure>
-          <img src="/assets/images/semana10/finger_curr4_finger_1.png" alt="10 KOhm" width="200">
+          <img src="/assets/images/semana11/finger_curr4_finger_1.png" alt="10 KOhm" width="200">
           <figcaption>Correntes consumidas com velocidade do primeiro motor superior </figcaption>
         </figure>
       </td>
