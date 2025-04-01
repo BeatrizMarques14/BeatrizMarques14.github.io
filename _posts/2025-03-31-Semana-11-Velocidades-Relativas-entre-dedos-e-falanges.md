@@ -103,7 +103,7 @@ Velocidades do polegar
       </td>
       <td>
         <figure>
-          <img src="/assets/images/semana11/finger_pos2_finger_3.png" alt="10 KOhm" width="200">
+          <img src="/assets/images/semana11/finger_vel2_finger_3.png" alt="10 KOhm" width="200">
           <figcaption>Velocidades dos motores do polegar com metade da velocidade do *middle finger </figcaption>
         </figure>
       </td>
