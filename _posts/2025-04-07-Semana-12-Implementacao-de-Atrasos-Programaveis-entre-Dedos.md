@@ -37,12 +37,12 @@ Na segunda experiência, a sequência é contrária à anterior. O polegar fecha
 
 
 <div style="text-align: center;">
-  <a href="https://www.youtube.com/watch?v=RkduG2dYwqQ">
-    <img src="https://img.youtube.com/vi/RkduG2dYwqQ/0.jpg" alt="Texto alternativo">
+  <a href="https://www.youtube.com/watch?v=LxN-bPqYuO0">
+    <img src="https://img.youtube.com/vi/LxN-bPqYuO0/0.jpg" alt="Texto alternativo">
   </a>
 </div>
 
-[Link do vídeo](https://www.youtube.com/watch?v=RkduG2dYwqQ)
+[Link do vídeo](https://www.youtube.com/watch?v=LxN-bPqYuO0)
 
 
 ## Montagem dos dedos restantes
