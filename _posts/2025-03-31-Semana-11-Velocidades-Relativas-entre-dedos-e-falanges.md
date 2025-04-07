@@ -264,7 +264,7 @@ Correntes
 
 <div style="text-align: center;">
   <a href="https://www.youtube.com/watch?v=QenLMoWv7jk">
-    <img src="https://www.youtube.com/watch?v=QenLMoWv7jk/0.jpg" alt="Texto alternativo">
+    <img src="https://www.youtube.com/watch?QenLMoWv7jk/0.jpg" alt="Texto alternativo">
   </a>
 </div>
 
